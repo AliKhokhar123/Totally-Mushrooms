@@ -1,0 +1,21 @@
+{
+    "name": "Totally Mushroom",
+    "short_name": "Mushroom",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#FFFFFF",
+    "theme_color": "#2196F3",
+    "icons": [
+      {
+        "src": "src/images/m256.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "src/images/m512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
+  
